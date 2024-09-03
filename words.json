@@ -672,7 +672,7 @@
     {
         "word": "airplane",
         "definition": "a powered flying vehicle with fixed wings and engines that enable it to fly through the air.",
-        "asked": false
+        "asked": true
     },
     {
         "word": "airport",
@@ -18417,7 +18417,7 @@
     {
         "word": "rain",
         "definition": "water that falls from the sky in separate drops",
-        "asked": false
+        "asked": true
     },
     {
         "word": "rainbow",
